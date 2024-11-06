@@ -1,0 +1,20 @@
+{
+  "allProducts": [
+    {
+      "id": 1,
+      "product": "Lenovo Idea Pad",
+      "image": "https://m.media-amazon.com/images/I/513bplmZ3VL.jpg",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "price": "67000"
+    },
+    {
+      "product": "Nord CE 3 ",
+      "image": "https://m.media-amazon.com/images/I/6175SlKKECL.jpg",
+      "brand": "OnePlue",
+      "category": "Phone",
+      "price": "16000",
+      "id": 2
+    }
+  ]
+}
